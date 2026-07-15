@@ -8176,10 +8176,10 @@ tiny-lr@^1.1.1:
     object-assign "^4.1.0"
     qs "^6.4.0"
 
-tinymce@latest:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-7.1.0.tgz#89d4896163daabdf3dfb11ae75526ac70c50df63"
-  integrity sha512-KP5X9P7CIvaafu0XLiMidFWhjyYiOWcfY9hj/YbQSu9LcrZv7XXnXgb5Fgw7dA12lg7hqdTiRva+NKxoXaAbIA==
+tinymce@^8.7.0:
+  version "8.7.0"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-8.7.0.tgz#a42b495daaa43f799c21a84efe0564eced9fd1e8"
+  integrity sha512-V3fBgEzKxKT5d41/3qkXs//2SjANGHzo1MWnU2ai8nss8YrzPprrRFlDbX2X9Z6ClyQAknojs7CzEgcsTdqhPQ==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
